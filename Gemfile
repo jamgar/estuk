@@ -33,6 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 gem 'simple_form'
 gem 'devise'
+gem 'cancancan'
 gem 'font-awesome-rails', '~> 4.5'
 gem 'gsdk', '>= 1.0.0.0'
 
