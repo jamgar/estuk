@@ -36,6 +36,7 @@ gem 'devise'
 gem 'cancancan'
 gem 'font-awesome-rails', '~> 4.5'
 gem 'gsdk', '>= 1.0.0.0'
+gem 'paperclip'
 
 
 group :development, :test do
