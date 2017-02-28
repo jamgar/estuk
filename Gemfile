@@ -40,6 +40,7 @@ gem 'paperclip'
 gem 'dotenv-rails', groups: :development
 gem 'aws-sdk'
 gem 'friendly_id'
+gem 'stripe'
 
 
 group :development, :test do
