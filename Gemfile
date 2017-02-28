@@ -39,6 +39,7 @@ gem 'gsdk', '>= 1.0.0.0'
 gem 'paperclip'
 gem 'dotenv-rails', groups: :development
 gem 'aws-sdk'
+gem 'friendly_id'
 
 
 group :development, :test do
